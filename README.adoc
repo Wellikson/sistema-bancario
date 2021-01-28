@@ -15,7 +15,9 @@ endif::[]
 
 = Sistema Bancário para Testes com JUnit 5.
 
-image::[relarorio.png]
+== Relatório de cobertura de código.
+
+image::https://github.com/Wellikson/sistema-bancario/blob/master/relatorio.png[]
 
 IMPORTANT: Vídeo: https://youtu.be/isOY-qG5bxU[🧪⚙️☕️ #1 TDD com JUNIT 5 no VS CODE: Implementando Regras de Negócio em JAVA pra um Sistema Bancário]
 
