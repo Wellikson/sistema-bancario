@@ -13,7 +13,7 @@ ifdef::env-github[]
 :warning-caption: :warning:
 endif::[]
 
-= Sistema Bancário para Testes com JUnit 5.
+= Sistema Bancário para Testes com JUnit 5 image:https://img.shields.io/github/workflow/status/Wellikson/sistema-bancario/maven[GitHub Workflow Status].
 
 == Relatório de cobertura de código.
 
